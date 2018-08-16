@@ -1,0 +1,130 @@
+.wrapper{
+  background-color: #ef2828;
+}
+
+.navbar .navbar-inner{
+  background-color: #e20909;
+
+}
+
+
+button{
+  background-color: #e03333;
+  color: white;
+}
+
+.navbar .navbar-inner .brand{
+  color: white;
+
+}
+.navbar .navbar-inner .dropdown-toggle{
+  color: white;
+
+}
+
+.navbar .navbar-inner a{
+  color: #e20909;
+
+}
+
+.navbar .navbar-inner .User{
+  color: white;
+
+}
+
+.container .span9{
+	height: 19000px;
+}
+
+textarea{
+	resize: none;
+}
+
+.sidebar .widget a{
+  background-color: #e20909;
+  color: white;
+  border-color: black;
+}
+
+.sidebar .widget li{
+  border-color: black;
+
+}
+
+.sidebar .widget i{
+  color: white;
+}
+/*signin*/
+.module-login{
+  background-color: #e03333; 
+}
+.module-head{
+  background-color: #e20909; 
+}
+.module-foot{
+  background-color: #e20909; 
+}
+
+
+.btnlist{
+      background-color: white;
+      border-radius: 5px;
+      border-color: #ef2828;
+      color: #ef2828;
+      padding: 35px 42px;
+      text-align: center;
+      text-shadow: 3px;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    .btnlist:hover{
+      background-color: #ef2828 ;
+      border-color: white;
+      color: white;
+    }
+
+/*home page*/
+.btnadmin{
+      background-color: white;
+      border-radius: 5px;
+      border-color: #ef2828;
+      color: #ef2828;
+      padding: 15px 32px;
+      text-align: center;
+      text-shadow: 3px;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    .btnadmin:hover{
+      background-color: #ef2828 ;
+      border-color: white;
+      color: white;
+    }
+    .btnuser{
+      background-color: white;
+      border-radius: 5px;
+      border-color: #ef2828;
+      color: #ef2828;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 3px;
+      cursor: pointer;
+    }
+    .btnuser:hover{
+      background-color: #ef2828 ;
+      border-color: white;
+      color: white;
+    }
+    .letters{
+      color: white;
+    }
+
